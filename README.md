@@ -29,6 +29,7 @@ services:
       - ./data/dead-websites:/app/websites
 ```
 If you integrate this with nginx proxy manager disableng a site become as simple as redirecting to the container name
+
 ![image](https://user-images.githubusercontent.com/17061996/126913335-190ba6ca-1c61-4618-ad12-7e1879f1ac08.png)
 
 Full config example: https://hastebin.com/uqodimaqud.yml
